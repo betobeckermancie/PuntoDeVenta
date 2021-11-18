@@ -1,0 +1,9 @@
+C:\ProyectoVB\Sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.pdb
+C:\ProyectoVB\Sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.Resources.resources
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.vbproj.GenerateResource.cache
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.vbproj.CoreCompileInputs.cache
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.dll
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.xml
+C:\ProyectoVB\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.pdb
